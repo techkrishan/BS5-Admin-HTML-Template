@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+        <!-- Bootstrap CSS -->
+        <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
+        <title>Dashboard</title>
+        <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    </head>
+
+    <body>
+    	<header class="navbar navbar-dark sticky-top flex-md-nowrap p-0 shadow top-header">
+            <button class="navbar-toggler position-absolute d-md-none hamburger ms-2" type="button" data-bs-toggle="collapse" data-bs-target="#sidebarMenu" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+
+            <a class="navbar-brand col-md-3 col-lg-2 mr-0 px-3" href="index.html">Tech Blog Admin</a>
+    		
+    		<div class="dropdown ms-3 me-3 right-dropdown-div">
+
+                <button class="btn" id="bd-versions" type="button" data-bs-toggle="dropdown" aria-expanded="false" data-bs-display="static">
+                    <span data-feather="settings">
+                </button>
+                <ul class="dropdown-menu dropdown-menu-end right-dropdown" aria-labelledby="bd-versions">
+                    <li><h6 class="dropdown-header">Super Admin</h6></li>
+                    <hr class="dropdown-divider" />
+                    <li>
+                        <a class="dropdown-item current" href="#" aria-current="true"><span data-feather="tool"></span> Settings</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="#" aria-current="false"><span data-feather="mail"></span> Messages</a>
+                    </li>
+                    <li>
+                        <a class="dropdown-item" href="login.html" aria-current="false"><span data-feather="log-out"></span> Sign Out</a>
+                    </li>
+                </ul>
+            </div>
+    	</header>
+
+        <div class="container-fluid">
+            <div class="row">
+                <nav id="sidebarMenu" class="col-md-3 col-lg-2 d-md-block sidebar collapse">
+                    <div class="position-sticky pt-3">
+                        <ul class="nav flex-column">
+                            <li class="nav-item">
+                                <a class="nav-link active" aria-current="page" href="index.html">
+                                    <span data-feather="home"></span>
+                                    Dashboard
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">
+                                    <span data-feather="file"></span>
+                                    Orders
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="#">
+                                    <span data-feather="shopping-cart"></span>
+                                    Products
+                                </a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="users.html">
+                                    <span data-feather="users"></span>
+                                    Users
+                                </a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav>
+                
+                <main class="col-md-9 ms-sm-auto col-lg-10 px-md-4">
+                    <nav aria-label="breadcrumb" class="pt-3">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item active" aria-current="page">Dashboard</li>
+                        </ol>
+                    </nav>
+
+                    
+                </main>
+            </div>
+        </div>
+
+        <!-- Option 1: Bootstrap Bundle with Popper -->
+        <script src="assets/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="assets/js/feather.min.js"></script>
+        <script src="assets/js/main.js"></script>
+    </body>
+</html>
