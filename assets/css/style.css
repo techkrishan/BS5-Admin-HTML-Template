@@ -123,6 +123,11 @@ body {
   font-size: 0.875rem;
 }
 
+.sidebar.collapsing {
+  left: -75%;
+  transition: height 0s ease;
+}
+
 /* login
 -------------------------------------------------- */  
 
