@@ -95,23 +95,35 @@
                       <thead>
                         <tr>
                           <th>#</th>
-                          <th>Header</th>
-                          <th>Header</th>
-                          <th>Header</th>
-                          <th>Header</th>
+                          <th>Name</th>
+                          <th>Email</th>
+                          <th>Phone</th>
+                          <th>&nbsp;</th>
                         </tr>
                       </thead>
                       <tbody>
+
                         <tr>
                           <td>1,001</td>
                           <td>Lorem</td>
                           <td>ipsum</td>
                           <td>dolor</td>
-                          <td>sit</td>
+                          <td>
+                          	<div class="dropdown">
+                          		<button class="btn" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-expanded="false">
+                          			<span data-feather="more-vertical"></span>
+                          		</button>
+                          		<ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                          			<li><a class="dropdown-item" href="#">Action</a></li>
+                          			<li><a class="dropdown-item" href="#">Another action</a></li>
+                          			<li><a class="dropdown-item" href="#">Something else here</a></li>
+                          		</ul>
+                          	</div>
+                          </td>
                         </tr>
                         <tr>
                           <td>1,002</td>
-                          <td>amet</td>
+                          <td><a href="profile.html">amet</a></td>
                           <td>consectetur</td>
                           <td>adipiscing</td>
                           <td>elit</td>
@@ -216,6 +228,26 @@
                         </tr>
                       </tbody>
                     </table>
+
+                    <!-- Pagination -->
+					<nav aria-label="Page navigation example">
+						<ul class="pagination justify-content-end">
+							<li class="page-item">
+								<a class="page-link" href="#" aria-label="Previous">
+									<span aria-hidden="true">&laquo;</span>
+								</a>
+							</li>
+							<li class="page-item"><a class="page-link" href="#">1</a></li>
+							<li class="page-item"><a class="page-link" href="#">2</a></li>
+							<li class="page-item"><a class="page-link" href="#">3</a></li>
+							<li class="page-item">
+								<a class="page-link" href="#" aria-label="Next">
+									<span aria-hidden="true">&raquo;</span>
+								</a>
+							</li>
+						</ul>
+					</nav>
+
                   </div>
                 </main>
             </div>

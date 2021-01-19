@@ -1,0 +1,346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"active"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"d-",
+				"d-flex"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"prni",
+				"print_r"
+			],
+			[
+				"get",
+				"getenv"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/html/dev/html/bs5-html/login.html",
+		"/var/www/html/dev/html/bs5-html/index.html",
+		"/var/www/html/dev/js/react-test/src/App.js",
+		"/var/www/html/dev/js/tb-web/src/App.js",
+		"/var/www/html/dev/js/tech-review-web/package.json",
+		"/var/www/html/dev/js/trweb/public/assets/js/main.js",
+		"/var/www/html/dev/html/bs5-html/users.html",
+		"/var/www/html/dev/html/bs5-html/form.html",
+		"/var/www/html/dev/html/bs5-html/README.md",
+		"/var/www/html/dev/html/bs5-html/css/style.css",
+		"/var/www/html/dev/html/tb-html/users.html",
+		"/var/www/html/dev/html/tb-html/assets/js/main.js",
+		"/var/www/html/dev/html/bs5-html/js/main.js",
+		"/var/www/html/dev/html/bs5-html/dashboard.html",
+		"/var/www/html/dev/html/bootstrap-5.0.0/dashboard/index.html",
+		"/var/www/html/dev/html/bootstrap-5.0.0/dashboard/_index.html",
+		"/var/www/html/dev/html/tb-html/index.html",
+		"/var/www/html/dev/html/bootstrap-4.5.3-examples/floating-labels/index.html",
+		"/var/www/html/dev/html/bootstrap-4.5.3-examples/floating-labels/floating-labels.css",
+		"/var/www/html/dev/html/tb-html/assets/users.html",
+		"/var/www/html/dev/html/bootstrap-4.5.3-examples/jumbotron/index.html",
+		"/var/www/html/dev/html/tb-html/login.html",
+		"/var/www/html/dev/html/tr-html/html/blank.html",
+		"/var/www/html/dev/html/bootstrap-4.5.3/CNAME",
+		"/var/www/html/dev/html/new-admin/login.html",
+		"/var/www/html/dev/html/tr-html-b5.0/login.html",
+		"/var/www/html/dev/html/new-admin/index.html",
+		"/var/www/html/dev/python/tech_blog_project/TechBlog/apps/user/api_views.py",
+		"/var/www/html/dev/js/my-app/src/Components/Users.jsx",
+		"/var/www/html/dev/js/my-app/src/Components/Home.jsx",
+		"/var/www/html/dev/js/my-app/src/Components/Blogs.jsx",
+		"/var/www/html/dev/js/my-app/src/Components/Dashboard.jsx",
+		"/home/krishan/Downloads/HTML-Templates/bootstrap-5.0.0-alpha3-examples/assets/dist/js/bootstrap.js",
+		"/home/krishan/Downloads/HTML-Templates/bootstrap-5.0.0-alpha3-examples/assets/dist/js/bootstrap.bundle.min.js",
+		"/home/krishan/Downloads/HTML-Templates/bootstrap-5.0.0-alpha3-examples/assets/dist/js/bootstrap.bundle.js",
+		"/var/www/html/dev/js/my-app/package.json",
+		"/var/www/html/dev/js/JustWeb/package.json",
+		"/var/www/html/dev/js/my-app/public/index.html",
+		"/var/www/html/dev/js/my-app/src/App.js",
+		"/var/www/html/dev/js/JustWeb/public/conf (copy).js",
+		"/var/www/html/apps/hwml/data/database/STAGE-DB-2020-11-19.sql",
+		"/var/www/html/apps/hwml/data/database/QA-DB-2020-11-19.sql",
+		"/var/www/html/apps/hwml/app-backend/storage/app/public/.gitignore",
+		"/var/www/html/apps/hwml/app-backend/storage/app/.gitignore",
+		"/var/www/html/dev/python/examples/TechReview/product_category/serializers.py",
+		"/var/www/html/dev/python/examples/TechReview/products/views.py",
+		"/var/www/html/dev/python/examples/TechReview/product_category/validations.py",
+		"/var/www/html/dev/python/examples/TechReview/products/serializers.py",
+		"/home/krishan/Desktop/uuid-vs-int-id-bench-marks.txt",
+		"/var/www/html/dev/python/examples/TechReview/products/models.py",
+		"/var/www/html/dev/python/reviews/apps/util/viewsets.py",
+		"/var/www/html/dev/python/reviews/apps/util/validations.py",
+		"/var/www/html/dev/python/reviews/apps/account/views.py",
+		"/var/www/html/dev/python/reviews/apps/product_categories/admin.py",
+		"/var/www/html/dev/python/reviews/apps/authentication/permissions.py",
+		"/var/www/html/dev/python/examples/movie-pro/apps/movie/filters.py",
+		"/var/www/html/dev/python/examples/movie-pro/apps/util/filters.py",
+		"/var/www/html/dev/python/examples/movie-pro/apps/movie/views/admin_views.py",
+		"/var/www/html/dev/python/examples/TechReview/product_category/views.py",
+		"/var/www/html/apps/hwml/logs/laravel.log",
+		"/home/krishan/Desktop/asas.sql",
+		"/var/www/html/apps/hwml/logs/hwml.log",
+		"/var/www/html/apps/hwml/app-backend/code-coverage/1_report.txt",
+		"/var/www/html/apps/hwml/app-backend/code-coverage/report.txt",
+		"/var/www/html/apps/hwml/app-backend/code-coverage/2_report.txt",
+		"/var/www/html/apps/hwml/app-backend/code-coverage/4_report.txt",
+		"/var/www/html/apps/hwml/app-backend/code-coverage/3_report.txt",
+		"/var/www/html/apps/hwml/data/database/QA-DB-2020-10-23.sql",
+		"/var/www/html/dev/python/examples/movie-pro/apps/util/paginations.py",
+		"/var/www/html/dev/python/examples/TechReview/product_category/models.py",
+		"/var/www/html/dev/python/reviews/apps/authentication/serializers.py",
+		"/var/www/html/dev/python/reviews/apps/authentication/urls.py",
+		"/var/www/html/dev/python/reviews/apps/authentication/views.py",
+		"/var/www/html/dev/python/examples/TechShop/product_category/views.py",
+		"/var/www/html/dev/python/reviews/apps/account/serializers.py",
+		"/var/www/html/dev/python/reviews/apps/account/urls.py",
+		"/var/www/html/dev/python/reviews/apps/account/validations.py",
+		"/var/www/html/dev/python/examples/movie-pro/Dockerfile",
+		"/var/www/html/dev/python/examples/movie-pro/dev.yml",
+		"/var/www/html/dev/python/reviews/core/celery.py",
+		"/var/www/html/dev/python/reviews/core/settings.py",
+		"/var/www/html/dev/python/reviews/requirements.txt",
+		"/var/www/html/dev/python/reviews/apps/notification/account.py",
+		"/var/www/html/dev/python/reviews/apps/util/send_mail.py",
+		"/var/www/html/dev/python/reviews/apps/util/email_messages.py",
+		"/var/www/html/dev/python/reviews/apps/authentication/validation.py",
+		"/var/www/html/dev/python/reviews/apps/authentication/managers.py",
+		"/var/www/html/dev/python/reviews/apps/util/models.py",
+		"/var/www/html/dev/python/reviews/apps/util/common.py",
+		"/home/krishan/snap/skype/common/LoginController.php",
+		"/var/www/html/apps/hwml/app-backend/app/Http/Controllers/Api/V1/AuthenticationController.php",
+		"/var/www/html/apps/hwml/data/database/DEV-2020-10-14.sql",
+		"/var/www/html/dev/python/tech_blog_project/TechBlog/apps/user/models.py",
+		"/var/www/html/dev/python/examples/TechReview/util/viewsets.py",
+		"/var/www/html/dev/python/reviews/apps/util/views.py",
+		"/var/www/html/dev/python/examples/CureBenefits-Backend/account/views.py",
+		"/var/www/html/dev/python/reviews/apps/authentication/models.py",
+		"/var/www/html/dev/python/reviews/.env",
+		"/var/www/html/dev/python/reviews/imp.txt",
+		"/var/www/html/dev/python/tech_blog_project/TechBlog/requirements.txt",
+		"/var/www/html/dev/python/TechBlog/.env",
+		"/var/www/html/dev/python/TechShop/fixtures/statuses.json",
+		"/var/www/html/dev/python/TechReview/fixtures/product_categories.json",
+		"/var/www/html/dev/python/examples/movie-pro/core/settings.py",
+		"/var/www/html/dev/python/examples/movie-pro/core/log_config.py",
+		"/var/www/html/dev/python/reviews/.gitignore",
+		"/var/www/html/dev/python/examples/CureBenefits-Backend/bill/views.py",
+		"/var/www/html/dev/python/examples/movie-pro/apps/administration/views.py",
+		"/var/www/html/dev/python/TechReview/products/views.py",
+		"/var/www/html/dev/python/examples/movie-pro/apps/movie/views/views.py",
+		"/var/www/html/dev/python/TechShop/product_category/views.py",
+		"/var/www/html/dev/python/TechShop/product_category/models.py",
+		"/var/www/html/dev/python/TechReview/products/models.py",
+		"/var/www/html/dev/python/TechShop/techshop/settings.py",
+		"/var/www/html/dev/python/examples/movie-pro/apps/util/upload_files.py",
+		"/var/www/html/dev/python/examples/movie-pro/apps/account/views/views.py",
+		"/var/www/html/dev/python/examples/movie-pro/apps/account/serializers.py",
+		"/var/www/html/dev/python/examples/movie-pro/apps/authentication/serializers.py",
+		"/var/www/html/dev/python/TechShop/product_category/urls.py",
+		"/var/www/html/dev/python/TechShop/account/models.py",
+		"/var/www/html/dev/php/ci-framework-4.0.4/env",
+		"/var/www/html/dev/php/ci-framework-4.0.4/composer.json",
+		"/home/krishan/Desktop/loan-check-request-data.json",
+		"/var/www/html/dev/python/examples/CureBenefits-Backend/account/serializers.py",
+		"/var/www/html/dev/python/examples/CureBenefits-Backend/account/urls.py",
+		"/var/www/html/dev/python/examples/CureBenefits-Backend/util/constants.py",
+		"/var/www/html/dev/python/examples/CureBenefits-Backend/util/upload_file.py",
+		"/var/www/html/dev/python/examples/movie-pro/apps/account/urls.py"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"class=\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"className=\""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "users.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/var/www/html/apps/hwml/app-backend/code-coverage/report.txt"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 326.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
